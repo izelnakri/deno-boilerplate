@@ -8,3 +8,5 @@ $ terser dist/bundle.js -o dist/bundle-min.js
 # run the html server
 $ http-server .
 ```
+
+[Demo website](http://console-demo.surge.sh/)
